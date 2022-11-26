@@ -36,7 +36,7 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 You can view UT Mart Sales Analytics Dashboard on my Tableau Public Profile link -https://public.tableau.com/app/profile/manu.v4407/viz/UTMartSalesAnalysis/Dashboard1 
 
 
-
+<img src="https://github.com/Manuv23/My_Portfolio/blob/main/Tableau%20Projects/Amazon_Shipping%20_Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
 
 
